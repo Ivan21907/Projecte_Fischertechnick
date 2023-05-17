@@ -1,0 +1,135 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Projecte_Fischertechnick:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Projecte_Fischertechnick_jar</output-path>
+    <root id="archive" name="Projecte_Fischertechnick.jar">
+      <element id="module-output" name="Projecte_Fischertechnick.main" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.opencensus/opencensus-contrib-grpc-util/0.31.1/89b1d2f8f64749256983446cbdfae25da5450de7/opencensus-contrib-grpc-util-0.31.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.auto.value/auto-value-annotations/1.10.1/9e5162c15f6033c524134cba05a5e93dc1d37c4b/auto-value-annotations-1.10.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-unix-common/4.1.84.Final/e51601ddb88ee646a97ff04db38d45c22c29aee8/netty-transport-native-unix-common-4.1.84.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/mysql/mysql-connector-java/8.0.22/ec8bfce16c8bd18d6cb598b1147aa145be1408f/mysql-connector-java-8.0.22.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Gradle: com.google.firebase:firebase-database:aar:20.0.1" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-protobuf/1.54.0/d0d38ae1def135fa14784e9192919d8e001ead1a/grpc-protobuf-1.54.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.0.0/e070ffae07452331bc5684734fce6831d531785c/lifecycle-common-2.0.0.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Gradle: androidx.slidingpanelayout:slidingpanelayout:aar:1.0.0" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-core/1.54.0/4202e6edb763b4210be9b0990f4565e90c63884b/grpc-core-1.54.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.opentest4j/opentest4j/1.2.0/28c11eb91f9b6d8e200631d46e20a7f407f2a046/opentest4j-1.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.collection/collection/1.0.0/42858b26cafdaa69b6149f45dfc2894007bc2c7a/collection-1.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-xds/1.54.0/74dd395a45edc02021c64c8c96ed2c2f1cbf83db/grpc-xds-1.54.0.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Gradle: com.google.android.gms:play-services-basement:aar:17.1.0" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.cloud/proto-google-cloud-firestore-bundle-v1/3.9.3/ef5b7fd9828bab1fa044a6894cbe98c41a608db/proto-google-cloud-firestore-bundle-v1-3.9.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/b421526c5f297295adef1c886e5246c39d4ac629/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation/1.1.0/e3a6fb2f40e3a3842e6b7472628ba4ce416ea4c8/annotation-1.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.api.grpc/grpc-google-cloud-storage-v2/2.21.0-alpha/dd9c80646e9f628ceb6e19c0f8222591a9cf367e/grpc-google-cloud-storage-v2-2.21.0-alpha.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Gradle: com.google.android.gms:play-services-auth-api-phone:aar:17.4.0" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-googleapis/1.54.0/2c4c5c2175d35d21c375267fae1659c51befaa96/grpc-googleapis-1.54.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.re2j/re2j/1.6/a13e879fd7971738d06020fefeb108cc14e14169/re2j-1.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-grpclb/1.54.0/43483a71c5f332fc6daf4c08bbfc3a25fee18419/grpc-grpclb-1.54.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.43.1/2ef9413e65319ac448534b424522a2c48087d884/google-http-client-1.43.1.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Gradle: androidx.interpolator:interpolator:aar:1.0.0" />
+      <element id="library" level="project" name="Gradle: com.google.firebase:firebase-auth:aar:21.0.1" />
+      <element id="library" level="project" name="Gradle: androidx.viewpager:viewpager:aar:1.0.0" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.opencensus/opencensus-contrib-http-util/0.31.1/3c13fc5715231fadb16a9b74a44d9d59c460cfa8/opencensus-contrib-http-util-0.31.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-context/1.54.0/e5c681b37ce85b8b6347603887a8943737151518/grpc-context-1.54.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.api.grpc/proto-google-cloud-storage-v2/2.21.0-alpha/e746d9850d587a2b30b1c1d858e19a958b50ac91/proto-google-cloud-storage-v2-2.21.0-alpha.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/25ea2e8b0c338a877313bd4672d3fe056ea78f0d/jsr305-3.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-services/1.54.0/53ba634410923003bb064b53b7e2f4eeb180d48c/grpc-services-1.54.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client-gson/2.2.0/319d792c7df5164ba33f5741b642071915d8c046/google-api-client-gson-2.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java-util/3.21.12/1a800bf7976d939217c8d91ed9a17d7a78bf2187/protobuf-java-util-3.21.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.auth/google-auth-library-oauth2-http/1.16.0/4eeb81450d4f61725cbd047393ff5243c7cc6bd7/google-auth-library-oauth2-http-1.16.0.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Gradle: com.google.firebase:firebase-common:aar:20.0.0" />
+      <element id="library" level="project" name="Gradle: androidx.legacy:legacy-support-core-utils:aar:1.0.0" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-gson/1.43.1/6f000784f9813ee33f976e42822d98ffacf3dbd/google-http-client-gson-1.43.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/2.0.3/deef7fc81f00bd5e6205bb097be1040b4094f007/slf4j-api-2.0.3.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Gradle: androidx.loader:loader:aar:1.0.0" />
+      <element id="library" level="project" name="Gradle: androidx.legacy:legacy-support-core-ui:aar:1.0.0" />
+      <element id="library" level="project" name="Gradle: com.google.android.gms:play-services-safetynet:aar:17.0.0" />
+      <element id="library" level="project" name="Gradle: androidx.lifecycle:lifecycle-livedata-core:aar:2.0.0" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.16/51cf043c87253c9f58b539c9f7e44c8894223850/httpcore-4.4.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.json/json/20230227/7a0d4aca76513d8ce81f9b044ce8126b84809ad8/json-20230227.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-annotations/16.0.0/dbeae20d6c97b747b59ef47b6dcf770ba1a60fa6/firebase-annotations-16.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.mojo/animal-sniffer-annotations/1.23/3c0daebd5f0e1ce72cc50c818321ac957aeb5d70/animal-sniffer-annotations-1.23.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.cloud/google-cloud-core-http/2.14.0/9abbb053d184f48c0997ffe3884ad6dc4991ed55/google-cloud-core-http-2.14.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.cloud/google-cloud-core-grpc/2.14.0/b2fd287c54a8688f622ab7d6cf562785b7da9949/google-cloud-core-grpc-2.14.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.threeten/threetenbp/1.6.7/d5cdfe5505b1d9d16e0445fdecf8aee4beef0e14/threetenbp-1.6.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport/4.1.84.Final/acd9947d0a951b1f7021c7adc393df936b1ecbf0/netty-transport-4.1.84.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.api.grpc/proto-google-common-protos/2.15.0/4c4d5db56196c4e14ea2588b6ac2450b243edc54/proto-google-common-protos-2.15.0.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Gradle: androidx.core:core:aar:1.0.0" />
+      <element id="library" level="project" name="Gradle: androidx.cursoradapter:cursoradapter:aar:1.0.0" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.api.grpc/proto-google-iam-v1/1.10.0/15dbc58f4ef75cb29cbc3368b786be06bea12017/proto-google-iam-v1-1.10.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.api/gax-httpjson/0.109.0/45cabbbc610aa64b0fb53f7529dffaad9e18687b/gax-httpjson-0.109.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.18.0/89b684257096f548fa39a7df9fdaa409d4d4df91/error_prone_annotations-2.18.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver/4.1.84.Final/b6f808e331cf843d2a7ff62042cf9b5343e2ff25/netty-resolver-4.1.84.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.opencensus/opencensus-proto/0.2.0/c05b6b32b69d5d9144087ea0ebc6fab183fb9151/opencensus-proto-0.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.opencensus/opencensus-api/0.31.1/66a60c7201c2b8b20ce495f0295b32bb0ccbbc57/opencensus-api-0.31.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-appengine/1.43.1/c408b784269b46028c133768a439c266f8cbf553/google-http-client-appengine-1.43.1.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Gradle: androidx.coordinatorlayout:coordinatorlayout:aar:1.0.0" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.auth/google-auth-library-credentials/1.16.0/8ae88acbd572253c99c36e22b17efff388db3d12/google-auth-library-credentials-1.16.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android/annotations/4.1.1.4/a1678ba907bf92691d879fef34e1a187038f9259/annotations-4.1.1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-api/1.54.0/bc7f8f9203dcf9e79d5735fb7b9e99053385e19d/grpc-api-1.54.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.apis/google-api-services-storage/v1-rev20230301-2.0.0/c9960d48021675f902c2a281af0aa1f1f247d4fd/google-api-services-storage-v1-rev20230301-2.0.0.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Gradle: androidx.documentfile:documentfile:aar:1.0.0" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.3.2/934c04d3cfef185a8008e7bf34331b79730a9d43/javax.annotation-api-1.3.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.api/gax/2.24.0/27d1f16868aefc2d5502a2fd888b55162811d6f3/gax-2.24.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.0.0/bb21b9a11761451b51624ac428d1f1bb5deeac38/core-common-2.0.0.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Gradle: androidx.arch.core:core-runtime:aar:2.0.0" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.43.1/995fbf865361d905218e486eb19313d4408ccfd9/google-http-client-jackson2-1.43.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec/4.1.84.Final/4f60f56c4cd17db114f01dc64aa465a2905240f5/netty-codec-4.1.84.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/2.2.0/10e53fd4d987e37190432e896bdaa62e8ea2c628/google-api-client-2.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-alts/1.54.0/dca14ffbbd3523c5bbf864126d289b1d720f3690/grpc-alts-1.54.0.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Gradle: androidx.browser:browser:aar:1.0.0" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/31.1-jre/60458f877d055d0c9114d9e1a2efb737b4bc282c/guava-31.1-jre.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Gradle: androidx.versionedparcelable:versionedparcelable:aar:1.0.0" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-stub/1.54.0/e0469129d71ad06b025b5eb24d2279410a7b85b7/grpc-stub-1.54.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.34.1/4a4f88c5e13143f882268c98239fb85c3b2c6cb2/google-oauth-client-1.34.1.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Gradle: androidx.swiperefreshlayout:swiperefreshlayout:aar:1.0.0" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java/3.21.12/5589e79a33cb6509f7e681d7cf4fc59d47c51c71/protobuf-java-3.21.12.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Gradle: com.google.firebase:firebase-database-collection:aar:18.0.0" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.conscrypt/conscrypt-openjdk-uber/2.5.2/d858f142ea189c62771c505a6548d8606ac098fe/conscrypt-openjdk-uber-2.5.2.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Gradle: com.google.firebase:firebase-auth-interop:aar:20.0.0" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler/4.1.84.Final/69cd93e2c321f04fc0a18eb5af519565373d0873/netty-handler-4.1.84.Final.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Gradle: com.google.firebase:firebase-appcheck-interop:aar:16.0.0-beta02" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.perfmark/perfmark-api/0.26.0/ef65452adaf20bf7d12ef55913aba24037b82738/perfmark-api-0.26.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/failureaccess/1.0.1/1dcf1de382a0bf95a3d8b0849546c88bac1292c9/failureaccess-1.0.1.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Gradle: com.google.firebase:firebase-components:aar:17.0.0" />
+      <element id="library" level="project" name="Gradle: androidx.lifecycle:lifecycle-viewmodel:aar:2.0.0" />
+      <element id="library" level="project" name="Gradle: androidx.localbroadcastmanager:localbroadcastmanager:aar:1.0.0" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.10.1/b3add478d4382b78ea20b1671390a858002feb6c/gson-2.10.1.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Gradle: androidx.customview:customview:aar:1.0.0" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-buffer/4.1.84.Final/a6b8cf57cfffc28d8e33f8175788a99401f576d9/netty-buffer-4.1.84.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.cloud/google-cloud-firestore/3.9.3/25b60ac34f00345d9df56e254db27a4a2d2cb822/google-cloud-firestore-3.9.3.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Gradle: androidx.fragment:fragment:aar:1.0.0" />
+      <element id="library" level="project" name="Gradle: androidx.print:print:aar:1.0.0" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.api/api-common/2.7.0/207192eed1183e25a9731067874968cd45872de4/api-common-2.7.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/1.8.1/e6c63bf990dc88a6527b4ed617b23e47048f07e0/junit-platform-engine-1.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-netty-shaded/1.54.0/d804b9173008af4c1c90800e13408907cf563be0/grpc-netty-shaded-1.54.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.api.grpc/gapic-google-cloud-storage-v2/2.21.0-alpha/f690d456c4a8f7f8792fe6ad9d4327e14662d541/gapic-google-cloud-storage-v2-2.21.0-alpha.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-auth/1.54.0/d4f76fade0dbd79893e2aa99a1176a95047c23d1/grpc-auth-1.54.0.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Gradle: androidx.lifecycle:lifecycle-livedata:aar:2.0.0" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.cloud/google-cloud-core/2.14.0/7b0b1c534418d4f964b7db1df775308c5b41aaf5/google-cloud-core-2.14.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.15/49d94806b6e3dc933dacbd8acb0fdbab8ebd1e5d/commons-codec-1.15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-engine/5.8.1/21b86e08aae2720bbf017703669948be96d1388c/junit-jupiter-engine-5.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-common/4.1.84.Final/90c84ec7f1108ae164810cf46694a5ec7ce738fc/netty-common-4.1.84.Final.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Gradle: com.google.android.gms:play-services-tasks:aar:17.0.0" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.14/1194890e6f56ec29177673f2f12d0b8e627dec98/httpclient-4.5.14.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Gradle: com.google.android.gms:play-services-base:aar:17.1.0" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.3/ba035118bc8bac37d7eff77700720999acd9986d/j2objc-annotations-1.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http/4.1.84.Final/78628e78087d3da6c3d2b22aa67798d3f3adcd68/netty-codec-http-4.1.84.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.paho/org.eclipse.paho.client.mqttv3/1.2.5/1546cfc794449c39ad569853843a930104fdc297/org.eclipse.paho.client.mqttv3-1.2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.14.2/f804090e6399ce0cf78242db086017512dd71fcc/jackson-core-2.14.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.cloud/google-cloud-storage/2.21.0/b5be3b02c30cc304bd51eb17c65dc26fd8ae4ecf/google-cloud-storage-2.21.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-protobuf-lite/1.54.0/7a5f88c180260fa024106e8fc7ae39a9ba7b285d/grpc-protobuf-lite-1.54.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.api.grpc/proto-google-cloud-firestore-v1/3.9.3/81925c80b485246688544686e7ebbfeb15a363b9/proto-google-cloud-firestore-v1-3.9.3.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Gradle: androidx.asynclayoutinflater:asynclayoutinflater:aar:1.0.0" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-apache-v2/1.43.1/de73ac2958a45ca67651ce30f47eefa1f7497a6d/google-http-client-apache-v2-1.43.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-qual/3.32.0/54ebd61f46b58b862c779e034073a93489ab3faf/checker-qual-3.32.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.api/gax-grpc/2.24.0/1b75327e6aefabf4b92e83c88d3ec47d20f71387/gax-grpc-2.24.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.8.1/6538b88eb8bf8811bc7b6efb5246f835c15e0bfe/junit-jupiter-api-5.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.auto.value/auto-value/1.10.1/e0184c26c3a20257c6fb46eaea16fdd3d7b6d357/auto-value-1.10.1.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Gradle: androidx.lifecycle:lifecycle-runtime:aar:2.0.0" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-admin/9.1.1/ed4c3d54dc08904aed7308a0c9aca5c9a51e9802/firebase-admin-9.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.8.1/1e362cbe6d0f225b066757865e233972557484/junit-platform-commons-1.8.1.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Gradle: androidx.drawerlayout:drawerlayout:aar:1.0.0" />
+    </root>
+  </artifact>
+</component>
