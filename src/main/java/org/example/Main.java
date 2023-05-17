@@ -95,7 +95,7 @@ public class Main implements MqttCallback {
         JSONObject json = new JSONObject(payload);
         //Agafem les claus del missatge que ens interessen i les guardem en variables
         double temperatura = json.getDouble("t");
-        double humedad = json.getDouble("h");
+        double humitat = json.getDouble("h");
         String temps = json.getString("ts");
 
         // Verifiquem si han passat 30 segons des de la última insercio
@@ -113,7 +113,7 @@ public class Main implements MqttCallback {
 
             //Fem un hashmap amb les dades que volem guardar a la base de dades
             Map<String, Object> data = new HashMap<>();
-            data.put("Humitat", humedad);
+            data.put("Humitat", humitat);
             data.put("Temperatura", temperatura);
             //Obtenim el dia i la hora per separat
             SimpleDateFormat dayFormat = new SimpleDateFormat("yyyy-MM-dd");
@@ -132,7 +132,7 @@ public class Main implements MqttCallback {
 
             // Mostrem per consola les dades que s'han guardat a la base de dades
             System.out.println("Temperatura: " + temperatura + "ºC");
-            System.out.println("Humitat: " + humedad + "%");
+            System.out.println("Humitat: " + humitat + "%");
 
             System.out.println("Dia/Hora" + temps);
         }
