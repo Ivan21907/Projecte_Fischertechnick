@@ -131,8 +131,8 @@ public class Main implements MqttCallback {
             System.out.println("Document creat amb ID: " + documentRef.getId());
 
             // Mostrem per consola les dades que s'han guardat a la base de dades
-            System.out.println("Temperatura: " + temperatura);
-            System.out.println("Humitat: " + humedad);
+            System.out.println("Temperatura: " + temperatura + "ºC");
+            System.out.println("Humitat: " + humedad + "%");
 
             System.out.println("Dia/Hora" + temps);
         }
